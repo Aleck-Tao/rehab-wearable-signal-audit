@@ -1,0 +1,15 @@
+{
+  "dataset_doi": "10.57760/sciencedb.37018",
+  "dataset_version": "V1",
+  "classes": 16,
+  "samples_per_record": 880,
+  "channels_per_sensor_file": 6,
+  "window_samples": 200,
+  "stride_samples": 40,
+  "test_fraction": 0.2,
+  "seeds": [101, 307, 809],
+  "ridge_alpha": 1.0,
+  "constant_tail_atol": 1e-10,
+  "features": ["mean", "std", "range", "rms", "mean_abs_difference"],
+  "split_unit_warning": "Record row IDs are not patient IDs. Patient/session separation is not established."
+}

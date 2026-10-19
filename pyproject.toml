@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rehab-wearable-signal-audit"
+version = "0.1.0"
+description = "Record-aware evaluation and signal-quality audit of the public REHAB exercise dataset"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.3.5"]
+
+[project.scripts]
+rehab-audit = "rehab_audit.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["rehab_audit*"]

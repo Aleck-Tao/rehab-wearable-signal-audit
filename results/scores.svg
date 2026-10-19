@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="378" viewBox="0 0 900 378">
+<rect width="900" height="378" fill="#f8fafc"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033;font-size:13px}</style>
+<text x="24" y="29" font-size="19">Fixed ridge baseline: split and signal-block comparisons</text>
+<text x="24" y="52">Bar: mean macro-F1; dots: 3 split seeds. Same usable classes throughout.</text>
+<text x="24" y="105">window_random / paired</text>
+<rect x="350" y="90" width="400" height="22" fill="#e2e8f0"/>
+<rect x="350" y="90" width="262.973" height="22" fill="#d97706"/>
+<text x="800" y="105">0.6574</text>
+<circle cx="614.090" cy="101" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="613.276" cy="101" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="611.552" cy="101" r="4" fill="#fff" stroke="#0f172a"/>
+<text x="24" y="153">record_disjoint / paired</text>
+<rect x="350" y="138" width="400" height="22" fill="#e2e8f0"/>
+<rect x="350" y="138" width="261.840" height="22" fill="#2563eb"/>
+<text x="800" y="153">0.6546</text>
+<circle cx="605.972" cy="149" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="614.746" cy="149" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="614.803" cy="149" r="4" fill="#fff" stroke="#0f172a"/>
+<text x="24" y="201">content_group_disjoint / paired</text>
+<rect x="350" y="186" width="400" height="22" fill="#e2e8f0"/>
+<rect x="350" y="186" width="257.611" height="22" fill="#2563eb"/>
+<text x="800" y="201">0.6440</text>
+<circle cx="606.442" cy="197" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="610.241" cy="197" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="606.150" cy="197" r="4" fill="#fff" stroke="#0f172a"/>
+<text x="24" y="249">content_group_disjoint / limb</text>
+<rect x="350" y="234" width="400" height="22" fill="#e2e8f0"/>
+<rect x="350" y="234" width="207.506" height="22" fill="#2563eb"/>
+<text x="800" y="249">0.5188</text>
+<circle cx="558.162" cy="245" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="559.778" cy="245" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="554.579" cy="245" r="4" fill="#fff" stroke="#0f172a"/>
+<text x="24" y="297">content_group_disjoint / glove</text>
+<rect x="350" y="282" width="400" height="22" fill="#e2e8f0"/>
+<rect x="350" y="282" width="129.368" height="22" fill="#2563eb"/>
+<text x="800" y="297">0.3234</text>
+<circle cx="474.673" cy="293" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="477.557" cy="293" r="4" fill="#fff" stroke="#0f172a"/>
+<circle cx="485.875" cy="293" r="4" fill="#fff" stroke="#0f172a"/>
+<text x="350" y="350">0</text><text x="746" y="350">1</text>
+</svg>

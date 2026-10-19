@@ -1,0 +1,566 @@
+{
+  "excluded_classes": [
+    {
+      "class_id": 14,
+      "reason": "at least one paired source file is quarantined"
+    }
+  ],
+  "files": [
+    {
+      "bytes": 9799808,
+      "dtype": "float64",
+      "file": "000_1.npy",
+      "max": 145.69088397727273,
+      "min": -320.88239329545456,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "5cfa34c91f430ed710ea40a933eba0ae",
+      "sha256": "61f78c09cf2a698dd9d634f3bdaecc6384cc1d171cacff46ba844dd606a1a974",
+      "shape": [
+        232,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=741019962b5ccc4b4503b881896f9fbb"
+    },
+    {
+      "bytes": 9799808,
+      "dtype": "float64",
+      "file": "000_2.npy",
+      "max": 164.74913147793004,
+      "min": -228.91196707796053,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "ad63d5a96337f9e12f905ce3778e2fd1",
+      "sha256": "eda02461c41b63e5d5fbc07e293815e86593314e91f93b28a6a40a9203d56213",
+      "shape": [
+        232,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=fefa6802a73c83fc1e8065e96045f8c1"
+    },
+    {
+      "bytes": 8955008,
+      "dtype": "float64",
+      "file": "001_1.npy",
+      "max": 123.80247806818181,
+      "min": -136.0888340909091,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "a032e0a66ff6945be76251a3f9d86477",
+      "sha256": "607cb617e0537f51acf3abddef4cade2a4d53215fbb833d42df6160f3e68c482",
+      "shape": [
+        212,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=c03cab97ae98d1a4f3fc2ba30b4a71a6"
+    },
+    {
+      "bytes": 8955008,
+      "dtype": "float64",
+      "file": "001_2.npy",
+      "max": 209.9551824804342,
+      "min": -209.1758921658623,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "6d6c6fdce8025c13c2a066aec4f1a5be",
+      "sha256": "3dd205be65cc8f08e3d8ef24fbbe66e241dcc08ecd3afe36a625e605b046ebb7",
+      "shape": [
+        212,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=a8060fb67cc275ea65c2252e340ac084"
+    },
+    {
+      "bytes": 11278208,
+      "dtype": "float64",
+      "file": "002_1.npy",
+      "max": 137.8554169318182,
+      "min": -106.84443920454547,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "d1660b8f11c2a3a6201feb86b16a68ee",
+      "sha256": "84cc7bce2de88c7a457ba3e62f453648fe8ad0c86b9c394853b23e921dd26021",
+      "shape": [
+        267,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=98ed7c8ae32751e39785206a95f3f953"
+    },
+    {
+      "bytes": 11278208,
+      "dtype": "float64",
+      "file": "002_2.npy",
+      "max": 209.97757731716283,
+      "min": -168.81553795894695,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "130cdf75b833350b0ac37c882035dbb5",
+      "sha256": "92c428d237ec06ef03a74b7276d094ff71c0728974d48fd15806e26f62d83c28",
+      "shape": [
+        267,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=168b9c860b64849e3e83395202c4a909"
+    },
+    {
+      "bytes": 10560128,
+      "dtype": "float64",
+      "file": "003_1.npy",
+      "max": 143.3635251136364,
+      "min": -148.13036420454546,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "1c94b1d0bd8bea4d982e4275f0cf8a78",
+      "sha256": "8d3f013372f450ec2a5b95b89b6731bd34db1cc60366991f04dd18afd028b167",
+      "shape": [
+        250,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=919be1bd7ffc3937e0df7d90431ab7bb"
+    },
+    {
+      "bytes": 10560128,
+      "dtype": "float64",
+      "file": "003_2.npy",
+      "max": 223.91424765102497,
+      "min": -254.3600867817474,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "ecdd21679630a334dc61545cf145ee90",
+      "sha256": "2926d708b3bb8e5535d0b38422bfc015c309902d64ae7b7453f1a3df6346320a",
+      "shape": [
+        250,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=8642f9f68bea9cdf27958afd25694bd2"
+    },
+    {
+      "bytes": 12123008,
+      "dtype": "float64",
+      "file": "004_1.npy",
+      "max": 870.0058625,
+      "min": -606.1859135227273,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "7927533872c93193ed00128a09544b1f",
+      "sha256": "216de2f659092b5860a5fe10a7095677c000f9dd9563d2a882a553550ffacbff",
+      "shape": [
+        287,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=cefde29b115e22b70f73bd300a5c6df5"
+    },
+    {
+      "bytes": 12123008,
+      "dtype": "float64",
+      "file": "004_2.npy",
+      "max": 348.4851870866753,
+      "min": -338.9932648453418,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "b620325717a80686ed5a6d9e3249ff81",
+      "sha256": "02c5794ca466f9fa05f0e7ab9f27d82616a0e25a55ed63d8bd55fac891af2ee8",
+      "shape": [
+        287,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=70051184bc065511692d55916e010c06"
+    },
+    {
+      "bytes": 12376448,
+      "dtype": "float64",
+      "file": "005_1.npy",
+      "max": 71.81434920454546,
+      "min": -93.87136124999999,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "95bedd76e85411b5bed9b194eb1cf84f",
+      "sha256": "8e3402a70959f9ece3634a6e3cf8de856fc713d4bc8fb30bce3130f9bf7efc2b",
+      "shape": [
+        293,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=3b14ff94702ebfe1f385e2bcf648d3d8"
+    },
+    {
+      "bytes": 12376448,
+      "dtype": "float64",
+      "file": "005_2.npy",
+      "max": 339.75613275711066,
+      "min": -334.74278851066697,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "b759fde5ac9acb908be008a848615d0e",
+      "sha256": "9f977d0633476a17981c86a294ac1e093ce036cefdcd89ece218f6d13a3308f8",
+      "shape": [
+        293,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=383b6c97ecf123b071c5bf7b8d7010d4"
+    },
+    {
+      "bytes": 10982528,
+      "dtype": "float64",
+      "file": "006_1.npy",
+      "max": 155.95074079545455,
+      "min": -143.6232590909091,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "50ec0f0bf1b2d356631aca113c85c479",
+      "sha256": "39fe578236502a0af1293c45f07e7582c2d22b654697780cad2d913f21345652",
+      "shape": [
+        260,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=f3068a29708006f83db58b22bb41d5b5"
+    },
+    {
+      "bytes": 10982528,
+      "dtype": "float64",
+      "file": "006_2.npy",
+      "max": 259.5275788120873,
+      "min": -174.47585377697317,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "2cabcbf214bd3c88c2281964a4a5c4a9",
+      "sha256": "e0b84b288fd7d8cd503fe673ff5941f6d62b177f13befe1029d5cc2230768c64",
+      "shape": [
+        260,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=448720e0c840b0b3a6d73e2ad6f327f8"
+    },
+    {
+      "bytes": 16262528,
+      "dtype": "float64",
+      "file": "007_1.npy",
+      "max": 128.63729886363637,
+      "min": -162.48881147727275,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "96f6365935e5cd2b5bc044eda116c889",
+      "sha256": "c03d91516d3d148dc899cf1da861e793d549d8411fa093b9ea3f11fa6bea3447",
+      "shape": [
+        385,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=439d1688074941436f269d137e1dc163"
+    },
+    {
+      "bytes": 16262528,
+      "dtype": "float64",
+      "file": "007_2.npy",
+      "max": 304.83045186890786,
+      "min": -312.86279928591927,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "0e019bb4566f7d4e8b4fd2354f933405",
+      "sha256": "ced3aedd78f53e37350a9a09cf3d9b6516f0406d11f895a29e440178af370441",
+      "shape": [
+        385,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=4df9030a655d5bffd9cbb35be24fee32"
+    },
+    {
+      "bytes": 12629888,
+      "dtype": "float64",
+      "file": "008_1.npy",
+      "max": 301.87360306818186,
+      "min": -321.54226579545457,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "5c62d69efc57096fd45092be275b11a4",
+      "sha256": "77664ad02d0e0990fc5fc54b28aabc72826014e15e3e3908069fe25aa05e2512",
+      "shape": [
+        299,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=6cfe3e4b4c15911f90d4060d876cbe47"
+    },
+    {
+      "bytes": 12629888,
+      "dtype": "float64",
+      "file": "008_2.npy",
+      "max": 200.1129323572405,
+      "min": -230.95596927073038,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "4bd8d3bac808f68a1effa21047c325f7",
+      "sha256": "6dfbe09812dce9351db9014b8dee9acb80dd459ae9d272b1ea90769bf1f2f464",
+      "shape": [
+        299,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=47a4e30e2d57c115420161590836bbb7"
+    },
+    {
+      "bytes": 12967808,
+      "dtype": "float64",
+      "file": "009_1.npy",
+      "max": 244.4660265909091,
+      "min": -202.23472988636368,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "96b60d6a5042c72b14cf0c6545a6291c",
+      "sha256": "3dc803df1a905bd68be45ffbfb874e3bf72df989cd6e7947e2f2baeab2b972cb",
+      "shape": [
+        307,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=7c945becb94953317bd395a90cb17585"
+    },
+    {
+      "bytes": 12967808,
+      "dtype": "float64",
+      "file": "009_2.npy",
+      "max": 230.78163579305902,
+      "min": -302.79875003825816,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "9e54f0eadaf16f86a1f4d3e5de08ac1f",
+      "sha256": "58cbba23933b08d394251fc2c6093d942552deb7e463c3f0804b1782c4418a4d",
+      "shape": [
+        307,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=4057c9c4c988f735e53a8155048b15e4"
+    },
+    {
+      "bytes": 13136768,
+      "dtype": "float64",
+      "file": "010_1.npy",
+      "max": 864.7015514772728,
+      "min": -565.5680589772728,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "85b0d51a5a4a2f4799c13b7544e006cb",
+      "sha256": "c6681917f2d4842d8223fd20bcf85d45cf5d862bf38b6de43ffdd40f1977247f",
+      "shape": [
+        311,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=43a521a40e976c487167c7288b2c79df"
+    },
+    {
+      "bytes": 13136768,
+      "dtype": "float64",
+      "file": "010_2.npy",
+      "max": 232.61376340189656,
+      "min": -157.57869879607892,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "19abfa2431ea59651f26952b10ea16f3",
+      "sha256": "f24593edaaa0d24f2011ddc5ffeb56bf5d6511a2a294dab75c709ab006291b78",
+      "shape": [
+        311,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=c7ee2633a58d7241fb18e1cc3945a369"
+    },
+    {
+      "bytes": 9926528,
+      "dtype": "float64",
+      "file": "011_1.npy",
+      "max": 62.42932329545455,
+      "min": -70.13841022727273,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "1c4e1bfbc10d3bbc9d3090f844ca04c8",
+      "sha256": "966e64aa6b4abfe983948aa782baf6bf2a8c8f15573431a53b6f052a1a6e28e4",
+      "shape": [
+        235,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=2f61d01011f92aff6393bf7f08b2117b"
+    },
+    {
+      "bytes": 9926528,
+      "dtype": "float64",
+      "file": "011_2.npy",
+      "max": 201.76175644347109,
+      "min": -180.39686278743005,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "987273298e1fdfe01c6344a6e0c095f5",
+      "sha256": "2896b5adee6dc150f9f9804e11eb5994b065be2fb150e3e3d989b35aee6b8a52",
+      "shape": [
+        235,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=8f81399ee551774b9eb5ee7d6460122a"
+    },
+    {
+      "bytes": 12376448,
+      "dtype": "float64",
+      "file": "012_1.npy",
+      "max": 157.90122136363635,
+      "min": -158.98299159090914,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "9d64f734640f0a01ca846a45203fc1da",
+      "sha256": "fc683cac9ad6772d15859d7de4d7caa17f235aa9049038ac9062047be4f2198d",
+      "shape": [
+        293,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=2c637866030be494b381ae5db888feac"
+    },
+    {
+      "bytes": 12376448,
+      "dtype": "float64",
+      "file": "012_2.npy",
+      "max": 185.73286821620223,
+      "min": -276.803865174727,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "1841297eece80f0e8f3f84ed9c5a026d",
+      "sha256": "af72504fd5fa727d98abee2d03d3ccae2602960eb3ee8a4cfad1e934442fda57",
+      "shape": [
+        293,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=f7f3117d547ad6d9c1bd80fd1f20e5c7"
+    },
+    {
+      "bytes": 13221248,
+      "dtype": "float64",
+      "file": "013_1.npy",
+      "max": 401.39914625000006,
+      "min": -847.3452365909093,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "61d6c974c3b89b7ce2460c57c27ba4fd",
+      "sha256": "0b8febbee2b6b9a3feb941d9a75ce764d111ecae5333ca63e28d954ce2bee21a",
+      "shape": [
+        313,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=de56617f041f6dce2e3428f61696b39b"
+    },
+    {
+      "bytes": 13221248,
+      "dtype": "float64",
+      "file": "013_2.npy",
+      "max": 198.43774049284275,
+      "min": -287.6658323761857,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "092f6c4cfa2e26cfc971c2737a6d3e03",
+      "sha256": "b01e5aeb775ccde00c9a5f68b76884db6cf51d634e48591e23fe2acb83fc7cc3",
+      "shape": [
+        313,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=1ddce9c7dcc01fe46fc8807c78d6fd53"
+    },
+    {
+      "bytes": 26975550,
+      "file": "014_1.npy",
+      "publisher_checksum_verified": true,
+      "publisher_md5": "9495d4eee66266b6190e4dd82bce2a0a",
+      "reason": "invalid NPY magic: 0aefbfbd4e55",
+      "sha256": "def65fc09291bfd08d5dd5ac2b87fee7684b91288c29b71d49b9ef665f23f2c0",
+      "status": "quarantined",
+      "url": "https://china.scidb.cn/download?fileId=d08cd076ec256bcfb82e44e11669566c"
+    },
+    {
+      "bytes": 15164288,
+      "dtype": "float64",
+      "file": "014_2.npy",
+      "max": 159.54584456042744,
+      "min": -182.35869827475938,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "67eef71322d53075effcd3ef98eb60d9",
+      "sha256": "d3bdea2e53f3945398e13cc4a44db77068fa55b14ed04454659f630ce3949567",
+      "shape": [
+        359,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=f9ca5d6a931537df3556404d0671db81"
+    },
+    {
+      "bytes": 13221248,
+      "dtype": "float64",
+      "file": "015_1.npy",
+      "max": 289.0190697727273,
+      "min": -296.1976313636364,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "6559a85e37aa70fce6d77c8d638f87f3",
+      "sha256": "d46571cbd13208711ee9514a82850e5bb605aa9b4f877dc8483592cd7389e0b6",
+      "shape": [
+        313,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=d9e9500246b02f66085f892bc6222050"
+    },
+    {
+      "bytes": 13221248,
+      "dtype": "float64",
+      "file": "015_2.npy",
+      "max": 209.87323258743214,
+      "min": -265.97058167288696,
+      "publisher_checksum_verified": true,
+      "publisher_md5": "12bf69fb324d8d424a54bedf064502a9",
+      "sha256": "50c790672161c532f1928d38873288f29b16aa3312a90eb14a57158fcf4dfae5",
+      "shape": [
+        313,
+        880,
+        6
+      ],
+      "status": "usable",
+      "url": "https://china.scidb.cn/download?fileId=e62adbb9617cadf87a9bc066a86e2a33"
+    }
+  ],
+  "pairing_rule": "same movement ID and row index; matching shape is necessary, not proof of original synchronization",
+  "patient_mapping": "not present in the downloaded exercise arrays",
+  "usable_classes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15
+  ]
+}

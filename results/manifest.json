@@ -1,0 +1,38 @@
+{
+  "dataset_doi": "10.57760/sciencedb.37018",
+  "dataset_version": "V1",
+  "environment": {
+    "numpy": "2.3.5",
+    "python": "3.12.14"
+  },
+  "reproduce_command": "rehab-audit fetch && rehab-audit run",
+  "result_hashes": {
+    "inventory.json": "1452ae69312b8692edb335656ba3e903cb8b199335237d764942ca47fd597cb1",
+    "per_class.csv": "df581d0ee296f363fd6ba00fe336902fd7c1b50589a89061cdc75a02fd21e9bd",
+    "scores.svg": "c168093fb0b5168711f2f03c73fb9a82e87444e18dfe4ea89875b9d3f3ae568c",
+    "study.md": "33d3f804b55cbd5f03f624bc9c001c709b55687edb99b0fd0631949b2427545f",
+    "summary.json": "edfac0dd574d66caca5270bacb7cc4fca434efd8f7dff2534df340a5cfaeeae7"
+  },
+  "schema_version": 1,
+  "scope": "independent implementation; downloaded source arrays unchanged; no patient mapping inferred",
+  "source_hashes_lf": {
+    ".github/workflows/ci.yml": "768a21ab78e42477321a6cb5cb1d8918343a4294c22c845593f686c24156039e",
+    "config/source_files.json": "42203bf92bf2b3a8eb65336e55d05d6841dcba1b5c381adb841b13d18a136357",
+    "config/study.json": "f933a7ab4b082974f171d5e0dca1aca91bd8bed442bb5d653374940a846c3aa0",
+    "pyproject.toml": "b8a56c57df54bf849d7ffe6cee72df822b27a1feb15ed471f48d53b792caf2c7",
+    "rehab_audit/__init__.py": "bf2069d6ef87e4968caa25eaa6a37e7fb6665b45c02f99516d6125e125a40429",
+    "rehab_audit/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "rehab_audit/acquire.py": "071805ab5ec7f51077fc4a4f28de887feb1536602ea5add3a7e795650ad8ad69",
+    "rehab_audit/baseline.py": "df7a58847029d62f367455bd5e9817025077d725872689870fb0073d6388fd6e",
+    "rehab_audit/cli.py": "303388cd904d685fa127732b2ad2ef8d34e9866b2b43ffd25f06e20d41f0a86d",
+    "rehab_audit/dataset.py": "a14255ede1e2c57ae98978421855a95fdb635512fa2244f2080f92d27fe61422",
+    "rehab_audit/pipeline.py": "255c385397f8f930c8a54df6f6b687a066f0dcdaa5462832b20b1860bd938dde",
+    "rehab_audit/signals.py": "56829a499599c6f70eb14d6eb3c114ec760fb3a6875f2205e80de1fcd810ef94",
+    "rehab_audit/splits.py": "ac4ee5de803b11d0b2d680f872c13dc2939b886e3e9124fbeffc665e553f8ab2",
+    "tests/test_dataset.py": "c664ae3f1b1d7ad2b35b162cc2a1819c282970180bcbf099b8c87bd89ff70348",
+    "tests/test_pipeline.py": "dbd57eb8e9d91451caa2b25876f238d15744621341b8323fbf71096c6e8a347e",
+    "tests/test_signals.py": "166716ee88b003623b764d45842e8ac4dc68ae9fd56192fef5d3fde84e093585",
+    "tests/test_splits_baseline.py": "9d9b0c5684c2cef6dc537a3805bc915a532696ae784fc621219d16190ff7aa7e"
+  },
+  "upstream_code_commit": "1073d6cb147e502cbfccd86c3011e7c487cbdb70"
+}

@@ -1,0 +1,340 @@
+{
+  "dataset_id": "0d134d6d647045979890711980fac55f",
+  "version": "V1",
+  "doi": "10.57760/sciencedb.37018",
+  "landing_page": "https://www.scidb.cn/en/detail?dataSetId=0d134d6d647045979890711980fac55f",
+  "retrieved_on": "2026-10-19",
+  "listing_endpoint": "https://www.scidb.cn/api/gin-sdb-filetree/public/file/childrenFileListByPath",
+  "listing_method": "POST",
+  "listing_parameters": {
+    "dataSetId": "0d134d6d647045979890711980fac55f",
+    "version": "V1",
+    "path": "/V1/REHAB/Rehab_exercise/d02_processed_data",
+    "lastIndex": 0,
+    "pageSize": 100
+  },
+  "file_count": 32,
+  "total_bytes": 401775038,
+  "files": [
+    {
+      "id": "741019962b5ccc4b4503b881896f9fbb",
+      "fileName": "000_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/000_1.npy",
+      "size": 9799808,
+      "md5": "5cfa34c91f430ed710ea40a933eba0ae",
+      "index": 0,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DE8",
+      "download_url": "https://china.scidb.cn/download?fileId=741019962b5ccc4b4503b881896f9fbb"
+    },
+    {
+      "id": "fefa6802a73c83fc1e8065e96045f8c1",
+      "fileName": "000_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/000_2.npy",
+      "size": 9799808,
+      "md5": "ad63d5a96337f9e12f905ce3778e2fd1",
+      "index": 1,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DEB",
+      "download_url": "https://china.scidb.cn/download?fileId=fefa6802a73c83fc1e8065e96045f8c1"
+    },
+    {
+      "id": "c03cab97ae98d1a4f3fc2ba30b4a71a6",
+      "fileName": "001_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/001_1.npy",
+      "size": 8955008,
+      "md5": "a032e0a66ff6945be76251a3f9d86477",
+      "index": 2,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DE4",
+      "download_url": "https://china.scidb.cn/download?fileId=c03cab97ae98d1a4f3fc2ba30b4a71a6"
+    },
+    {
+      "id": "a8060fb67cc275ea65c2252e340ac084",
+      "fileName": "001_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/001_2.npy",
+      "size": 8955008,
+      "md5": "6d6c6fdce8025c13c2a066aec4f1a5be",
+      "index": 3,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DF6",
+      "download_url": "https://china.scidb.cn/download?fileId=a8060fb67cc275ea65c2252e340ac084"
+    },
+    {
+      "id": "98ed7c8ae32751e39785206a95f3f953",
+      "fileName": "002_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/002_1.npy",
+      "size": 11278208,
+      "md5": "d1660b8f11c2a3a6201feb86b16a68ee",
+      "index": 4,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DFE",
+      "download_url": "https://china.scidb.cn/download?fileId=98ed7c8ae32751e39785206a95f3f953"
+    },
+    {
+      "id": "168b9c860b64849e3e83395202c4a909",
+      "fileName": "002_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/002_2.npy",
+      "size": 11278208,
+      "md5": "130cdf75b833350b0ac37c882035dbb5",
+      "index": 5,
+      "fcstr": "31253.11.sciencedb.37018.01CC0DFA",
+      "download_url": "https://china.scidb.cn/download?fileId=168b9c860b64849e3e83395202c4a909"
+    },
+    {
+      "id": "919be1bd7ffc3937e0df7d90431ab7bb",
+      "fileName": "003_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/003_1.npy",
+      "size": 10560128,
+      "md5": "1c94b1d0bd8bea4d982e4275f0cf8a78",
+      "index": 6,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E02",
+      "download_url": "https://china.scidb.cn/download?fileId=919be1bd7ffc3937e0df7d90431ab7bb"
+    },
+    {
+      "id": "8642f9f68bea9cdf27958afd25694bd2",
+      "fileName": "003_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/003_2.npy",
+      "size": 10560128,
+      "md5": "ecdd21679630a334dc61545cf145ee90",
+      "index": 7,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E0D",
+      "download_url": "https://china.scidb.cn/download?fileId=8642f9f68bea9cdf27958afd25694bd2"
+    },
+    {
+      "id": "cefde29b115e22b70f73bd300a5c6df5",
+      "fileName": "004_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/004_1.npy",
+      "size": 12123008,
+      "md5": "7927533872c93193ed00128a09544b1f",
+      "index": 8,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E13",
+      "download_url": "https://china.scidb.cn/download?fileId=cefde29b115e22b70f73bd300a5c6df5"
+    },
+    {
+      "id": "70051184bc065511692d55916e010c06",
+      "fileName": "004_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/004_2.npy",
+      "size": 12123008,
+      "md5": "b620325717a80686ed5a6d9e3249ff81",
+      "index": 9,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E1B",
+      "download_url": "https://china.scidb.cn/download?fileId=70051184bc065511692d55916e010c06"
+    },
+    {
+      "id": "3b14ff94702ebfe1f385e2bcf648d3d8",
+      "fileName": "005_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/005_1.npy",
+      "size": 12376448,
+      "md5": "95bedd76e85411b5bed9b194eb1cf84f",
+      "index": 10,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E1F",
+      "download_url": "https://china.scidb.cn/download?fileId=3b14ff94702ebfe1f385e2bcf648d3d8"
+    },
+    {
+      "id": "383b6c97ecf123b071c5bf7b8d7010d4",
+      "fileName": "005_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/005_2.npy",
+      "size": 12376448,
+      "md5": "b759fde5ac9acb908be008a848615d0e",
+      "index": 11,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E23",
+      "download_url": "https://china.scidb.cn/download?fileId=383b6c97ecf123b071c5bf7b8d7010d4"
+    },
+    {
+      "id": "f3068a29708006f83db58b22bb41d5b5",
+      "fileName": "006_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/006_1.npy",
+      "size": 10982528,
+      "md5": "50ec0f0bf1b2d356631aca113c85c479",
+      "index": 12,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E27",
+      "download_url": "https://china.scidb.cn/download?fileId=f3068a29708006f83db58b22bb41d5b5"
+    },
+    {
+      "id": "448720e0c840b0b3a6d73e2ad6f327f8",
+      "fileName": "006_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/006_2.npy",
+      "size": 10982528,
+      "md5": "2cabcbf214bd3c88c2281964a4a5c4a9",
+      "index": 13,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E39",
+      "download_url": "https://china.scidb.cn/download?fileId=448720e0c840b0b3a6d73e2ad6f327f8"
+    },
+    {
+      "id": "439d1688074941436f269d137e1dc163",
+      "fileName": "007_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/007_1.npy",
+      "size": 16262528,
+      "md5": "96f6365935e5cd2b5bc044eda116c889",
+      "index": 14,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E3D",
+      "download_url": "https://china.scidb.cn/download?fileId=439d1688074941436f269d137e1dc163"
+    },
+    {
+      "id": "4df9030a655d5bffd9cbb35be24fee32",
+      "fileName": "007_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/007_2.npy",
+      "size": 16262528,
+      "md5": "0e019bb4566f7d4e8b4fd2354f933405",
+      "index": 15,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E41",
+      "download_url": "https://china.scidb.cn/download?fileId=4df9030a655d5bffd9cbb35be24fee32"
+    },
+    {
+      "id": "6cfe3e4b4c15911f90d4060d876cbe47",
+      "fileName": "008_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/008_1.npy",
+      "size": 12629888,
+      "md5": "5c62d69efc57096fd45092be275b11a4",
+      "index": 16,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E45",
+      "download_url": "https://china.scidb.cn/download?fileId=6cfe3e4b4c15911f90d4060d876cbe47"
+    },
+    {
+      "id": "47a4e30e2d57c115420161590836bbb7",
+      "fileName": "008_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/008_2.npy",
+      "size": 12629888,
+      "md5": "4bd8d3bac808f68a1effa21047c325f7",
+      "index": 17,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E49",
+      "download_url": "https://china.scidb.cn/download?fileId=47a4e30e2d57c115420161590836bbb7"
+    },
+    {
+      "id": "7c945becb94953317bd395a90cb17585",
+      "fileName": "009_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/009_1.npy",
+      "size": 12967808,
+      "md5": "96b60d6a5042c72b14cf0c6545a6291c",
+      "index": 18,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E4D",
+      "download_url": "https://china.scidb.cn/download?fileId=7c945becb94953317bd395a90cb17585"
+    },
+    {
+      "id": "4057c9c4c988f735e53a8155048b15e4",
+      "fileName": "009_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/009_2.npy",
+      "size": 12967808,
+      "md5": "9e54f0eadaf16f86a1f4d3e5de08ac1f",
+      "index": 19,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E51",
+      "download_url": "https://china.scidb.cn/download?fileId=4057c9c4c988f735e53a8155048b15e4"
+    },
+    {
+      "id": "43a521a40e976c487167c7288b2c79df",
+      "fileName": "010_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/010_1.npy",
+      "size": 13136768,
+      "md5": "85b0d51a5a4a2f4799c13b7544e006cb",
+      "index": 20,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E55",
+      "download_url": "https://china.scidb.cn/download?fileId=43a521a40e976c487167c7288b2c79df"
+    },
+    {
+      "id": "c7ee2633a58d7241fb18e1cc3945a369",
+      "fileName": "010_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/010_2.npy",
+      "size": 13136768,
+      "md5": "19abfa2431ea59651f26952b10ea16f3",
+      "index": 21,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E5D",
+      "download_url": "https://china.scidb.cn/download?fileId=c7ee2633a58d7241fb18e1cc3945a369"
+    },
+    {
+      "id": "2f61d01011f92aff6393bf7f08b2117b",
+      "fileName": "011_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/011_1.npy",
+      "size": 9926528,
+      "md5": "1c4e1bfbc10d3bbc9d3090f844ca04c8",
+      "index": 22,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E61",
+      "download_url": "https://china.scidb.cn/download?fileId=2f61d01011f92aff6393bf7f08b2117b"
+    },
+    {
+      "id": "8f81399ee551774b9eb5ee7d6460122a",
+      "fileName": "011_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/011_2.npy",
+      "size": 9926528,
+      "md5": "987273298e1fdfe01c6344a6e0c095f5",
+      "index": 23,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E65",
+      "download_url": "https://china.scidb.cn/download?fileId=8f81399ee551774b9eb5ee7d6460122a"
+    },
+    {
+      "id": "2c637866030be494b381ae5db888feac",
+      "fileName": "012_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/012_1.npy",
+      "size": 12376448,
+      "md5": "9d64f734640f0a01ca846a45203fc1da",
+      "index": 24,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E69",
+      "download_url": "https://china.scidb.cn/download?fileId=2c637866030be494b381ae5db888feac"
+    },
+    {
+      "id": "f7f3117d547ad6d9c1bd80fd1f20e5c7",
+      "fileName": "012_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/012_2.npy",
+      "size": 12376448,
+      "md5": "1841297eece80f0e8f3f84ed9c5a026d",
+      "index": 25,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E6D",
+      "download_url": "https://china.scidb.cn/download?fileId=f7f3117d547ad6d9c1bd80fd1f20e5c7"
+    },
+    {
+      "id": "de56617f041f6dce2e3428f61696b39b",
+      "fileName": "013_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/013_1.npy",
+      "size": 13221248,
+      "md5": "61d6c974c3b89b7ce2460c57c27ba4fd",
+      "index": 26,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E71",
+      "download_url": "https://china.scidb.cn/download?fileId=de56617f041f6dce2e3428f61696b39b"
+    },
+    {
+      "id": "1ddce9c7dcc01fe46fc8807c78d6fd53",
+      "fileName": "013_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/013_2.npy",
+      "size": 13221248,
+      "md5": "092f6c4cfa2e26cfc971c2737a6d3e03",
+      "index": 27,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E75",
+      "download_url": "https://china.scidb.cn/download?fileId=1ddce9c7dcc01fe46fc8807c78d6fd53"
+    },
+    {
+      "id": "d08cd076ec256bcfb82e44e11669566c",
+      "fileName": "014_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/014_1.npy",
+      "size": 26975550,
+      "md5": "9495d4eee66266b6190e4dd82bce2a0a",
+      "index": 28,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E79",
+      "download_url": "https://china.scidb.cn/download?fileId=d08cd076ec256bcfb82e44e11669566c"
+    },
+    {
+      "id": "f9ca5d6a931537df3556404d0671db81",
+      "fileName": "014_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/014_2.npy",
+      "size": 15164288,
+      "md5": "67eef71322d53075effcd3ef98eb60d9",
+      "index": 29,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E7D",
+      "download_url": "https://china.scidb.cn/download?fileId=f9ca5d6a931537df3556404d0671db81"
+    },
+    {
+      "id": "d9e9500246b02f66085f892bc6222050",
+      "fileName": "015_1.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/015_1.npy",
+      "size": 13221248,
+      "md5": "6559a85e37aa70fce6d77c8d638f87f3",
+      "index": 30,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E81",
+      "download_url": "https://china.scidb.cn/download?fileId=d9e9500246b02f66085f892bc6222050"
+    },
+    {
+      "id": "e62adbb9617cadf87a9bc066a86e2a33",
+      "fileName": "015_2.npy",
+      "path": "/V1/REHAB/Rehab_exercise/d02_processed_data/015_2.npy",
+      "size": 13221248,
+      "md5": "12bf69fb324d8d424a54bedf064502a9",
+      "index": 31,
+      "fcstr": "31253.11.sciencedb.37018.01CC0E85",
+      "download_url": "https://china.scidb.cn/download?fileId=e62adbb9617cadf87a9bc066a86e2a33"
+    }
+  ]
+}

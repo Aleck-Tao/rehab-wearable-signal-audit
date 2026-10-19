@@ -1,0 +1,65 @@
+name: reproducibility
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '37 3 * * 1'
+  workflow_dispatch:
+    inputs:
+      full_data:
+        description: Download the published exercise arrays and replay the complete study
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -e .
+      - run: python -m unittest discover -s tests -v
+      - run: rehab-audit verify
+
+  full-replay:
+    if: github.event_name == 'workflow_dispatch' && inputs.full_data
+    needs: tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -e .
+      - name: Fetch and verify publisher checksums
+        run: rehab-audit fetch
+      - name: Fresh split, model and prediction replay
+        run: rehab-audit check
+      - name: Preserve regenerated evidence
+        run: rehab-audit run --output artifacts/replay
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
+        with:
+          name: rehab-evidence-${{ github.sha }}
+          path: |
+            artifacts/replay/inventory.json
+            artifacts/replay/summary.json
+            artifacts/replay/per_class.csv
+            artifacts/replay/study.md
+            artifacts/replay/scores.svg
+            artifacts/replay/manifest.json
+            config/
+          retention-days: 90
+          if-no-files-found: error
